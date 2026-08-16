@@ -8,7 +8,6 @@
   <img src="./assets/fallen-angel-sigil.png" alt="3D broken halo and opposing angel wings surrounding a violet crystal" width="125" />
 
   <h1>MAYANK BHASKAR · <code>qtjg</code></h1>
-
   <p><strong>LOCAL-FIRST AI BUILDER · SYSTEMS FROM THE VOID</strong></p>
 
   <p>
@@ -21,8 +20,6 @@
   <img src="https://img.shields.io/github/last-commit/qtjg/qtjg?label=LAST%20SIGNAL&style=for-the-badge&color=fb7185&labelColor=08090d" alt="Last profile repository commit" />
 </div>
 
-> **A developer command center for local AI, defensive evaluation, automation, and useful software.**
-
 ```text
 ╭──────────────────────────────────────────────────────────────────────╮
 │  FALLEN ANGEL // COMMAND CENTER                                      │
@@ -32,12 +29,6 @@
 │  SIGNAL   AI tools · CLIs · dashboards · browser workflows            │
 ╰──────────────────────────────────────────────────────────────────────╯
 ```
-
-## `// mission control`
-
-I am an ADHD-powered builder working where **AI, automation, open source, privacy, and the web** overlap. I build software with a visible spine: clear scope, reviewable decisions, deterministic tests, and a useful local mode before the cloud gets involved.
-
-The fallen angel is the design language. One wing is **precision**. The other is **experimentation**. The broken halo is the boundary between what a system can do and what it should refuse to do.
 
 ## `// live telemetry`
 
@@ -58,15 +49,6 @@ The fallen angel is the design language. One wing is **precision**. The other is
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qtjg&bg_color=08090d&color=e5e7eb&line=8b5cf6&point=fb7185&area=true&hide_border=true&custom_title=Fallen%20Angel%20Activity%20Graph&radius=8" alt="GitHub activity graph for the last 31 days" />
 </a>
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qtjg&theme=github_dark" alt="Repositories by programming language" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qtjg&theme=github_dark" alt="Most committed programming languages" />
-  </a>
-</div>
-
 ## `// systems online`
 
 | System | Role | Current signal |
@@ -74,23 +56,6 @@ The fallen angel is the design language. One wing is **precision**. The other is
 | [**OfflineCV**](https://github.com/qtjg/OfflineCV) | PDF parser stress test and résumé workbench | `TypeScript` · `Vite` · `WebGPU` · `IndexedDB` |
 | [**Redline Observatory**](https://github.com/qtjg/llm-redteam-workbench) | Bounded AI/LLM security evaluation CLI | `JavaScript` · `Node.js` · `policy gates` |
 | [**vibe-forge**](https://github.com/qtjg/vibe-forge) | Explainable local model router for coding assistants | `Python` · `FastAPI` · `Ollama` |
-
-<details>
-<summary><strong>OPEN SYSTEM DOSSIERS</strong></summary>
-
-### OfflineCV · the parser that shows what survived
-
-A browser-first résumé workbench and PDF parser stress test. It exposes the failure modes hidden inside two-column layouts, image-only PDFs, and broken font encodings, then adds local storage, editing, export, scoring, and job-matching workflows.
-
-### Redline Observatory · the boundary around the model
-
-A local-first CLI for authorized AI/LLM security evaluation. It runs bounded synthetic fixtures, applies explicit policy gates, stores redacted evidence, compares regressions, audits coverage, and keeps the default workflow offline.
-
-### vibe-forge · the router behind the curtain
-
-A local-first policy router for coding assistants. It scores task complexity, selects the cheapest suitable Ollama model, records a plain-English reason, serves a live dashboard, and emits benchmark-ready CSV data.
-
-</details>
 
 ## `// capability matrix`
 
@@ -103,8 +68,6 @@ A local-first policy router for coding assistants. It scores task complexity, se
 | **Quality** | Vitest · pytest · Node test runner | typecheck, lint, formatting, build verification, mocked HTTP |
 | **Privacy** | browser storage · local files | explicit network boundaries, local-first persistence, safe evidence handling |
 
-## `// contribution signal`
-
 <div align="center">
   <a href="https://github.com/Platane/snk">
     <picture>
@@ -115,42 +78,24 @@ A local-first policy router for coding assistants. It scores task complexity, se
   </a>
 </div>
 
-<sub>The contribution signal is generated daily by a GitHub Action and visualizes the public contribution grid. It is a visual layer, not a replacement for the live telemetry cards above.</sub>
+## `// stack`
 
-## `// build protocol`
+<div align="center">
 
-```text
-01  find the strange part
-02  prototype the smallest useful version
-03  make the boundary impossible to miss
-04  measure the behavior
-05  redact what should not persist
-06  ship the version that survives contact
-```
+`PYTHON` `TYPESCRIPT` `JAVASCRIPT` `NODE.JS` `FASTAPI` `VITE` `OLLAMA` `WEBGPU` `GITHUB`
 
-<details>
-<summary><strong>OPEN ENGINEERING PRINCIPLES</strong></summary>
-
-**LOCAL BEFORE CLOUD.** If a feature can run on the user's machine, that path should be real, documented, and useful.
-
-**BOUNDARIES BEFORE HYPE.** Scope, policy, evidence, provenance, and failure modes belong in the design—not in a footnote after the demo.
-
-**EXPLAINABLE BY DEFAULT.** A tool should be able to tell you what it chose, why it chose it, what it retained, and what it refused to touch.
-
-**SMALL SURFACES, DEEP UTILITY.** One sharp parser, router, CLI, or dashboard is worth more than a giant abstraction nobody can inspect.
-
-</details>
+</div>
 
 ## `// open channel`
 
-If you are building something local-first, weird, defensive, or just useful, find me on [GitHub](https://github.com/qtjg). I also orbit as [@mayankbhaskarr](https://github.com/mayankbhaskarr), around [oskj](https://github.com/oskj), and through my [link hub](https://guns.lol/mayankbhaskar).
+[GitHub](https://github.com/qtjg) · [@mayankbhaskarr](https://github.com/mayankbhaskarr) · [oskj](https://github.com/oskj) · [link hub](https://guns.lol/mayankbhaskar)
 
 <div align="center">
   <img src="./assets/fallen-angel-sigil.png" alt="3D fallen-angel sigil" width="86" />
 
   **BUILD WHAT SURVIVES.**
 
-  <sub>Mayank Bhaskar · <code>qtjg</code> · AI / automation / open source / useful experiments</sub>
+  <sub>Mayank Bhaskar · <code>qtjg</code></sub>
 </div>
 
 <!--
