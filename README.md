@@ -3,7 +3,7 @@
 
   <br /><br />
 
-  <img src="https://wsrv.nl/?url=files.manuscdn.com/user_upload_by_module/session_file/310519663266170356/aoWVgELEDbwIXexW.png&w=1600&q=85" alt="Monochrome mountain range reflected in a winding lake" width="100%" />
+  <img src="https://wsrv.nl/?url=files.manuscdn.com/user_upload_by_module/session_file/310519663266170356/aoWVgELEDbwIXexW.png" alt="Monochrome mountain range reflected in a winding lake" width="100%" />
 
   <h1>Welcome to Mayank's GitHub</h1>
   <p><code>&lt;/&gt;</code></p>
