@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+
 ## 📌 About Me
 - 🚀 Building AI, SaaS & developer tools
 - 🧠 Exploring AI/ML & full-stack development
@@ -102,9 +104,15 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://x.com/mayankbhaskarr"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Mayank Bhaskar 's Twitter"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@IndianCyberSecurity"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Mayank Bhaskar 's YouTube"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mayankbhaskardev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mayank Bhaskar 's Email"/></a>
+  <a href="https://x.com/mayankbhaskarr">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@IndianCyberSecurity">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mayankbhaskardev@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
 <picture>
@@ -114,4 +122,8 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
