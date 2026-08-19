@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mayank%20Bhaskar%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Builder%20%7C%20Open-Source%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Mayank Bhaskar </h1>
+<h3 align="center">AI & Full-Stack Developer | Builder | Open-Source Enthusiast</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=qtjg">
