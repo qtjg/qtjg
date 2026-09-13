@@ -26,6 +26,21 @@
 - Open Source
 
 
+## 🚀 Projects
+
+### 🔥 [hearth](https://github.com/qtjg/hearth)
+**A cozy floating music companion for every desktop — Arch Linux, Windows & macOS.**
+Built on PyQt6 + YouTube Music + yt-dlp: a slim always-on-top ribbon that blooms into a
+full player with queue shuffle & repeat, sleep timer with fade-out, loudness normalization,
+six live themes, hotkeys with conflict detection, and SQLite favorites & history.
+Arch Linux is a first-class citizen (PKGBUILD included), and a 3-OS CI matrix keeps the
+"every desktop" promise honest.
+
+### 🚪 [joingate](https://github.com/qtjg/joingate)
+**One-time invite links, member gating and kick automation for Telegram groups & channels.**
+Zero dependencies, runs on any JS runtime.
+
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/qtjg">
