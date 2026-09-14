@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360" role="img" aria-label="qtjg/qtjg 3D language stack">
+<defs>
+<linearGradient id="bg4bf96661" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#180e0c"/>
+<stop offset="1" stop-color="#2d1815"/>
+</linearGradient>
+<clipPath id="clip"><rect width="880" height="360"/></clipPath>
+</defs>
+<rect width="880" height="360" fill="url(#bg4bf96661)"/>
+<text x="44" y="48" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" letter-spacing="5" fill="#dfc7c3">LANGUAGE STACK</text>
+<text x="44" y="70" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" letter-spacing="2" fill="#a88e8a">qtjg/qtjg</text>
+<ellipse cx="440" cy="212" rx="64" ry="11" fill="#dd513c" opacity="0.20">
+<animate attributeName="opacity" values="0.12;0.30;0.12" dur="4s" repeatCount="indefinite"/>
+</ellipse>
+<polygon points="60,270 440,202 820,270 440,338" fill="#271917" stroke="#c27b70" stroke-opacity="0.35" stroke-width="1.2"/><polygon points="60,270 440,202 820,270 440,338" fill="none" stroke="#e09185" stroke-opacity="0.10" stroke-width="6"/>
+<polygon points="440.0,102.0 488.0,78.0 440.0,54.0 392.0,78.0" fill="#4996d4" stroke="#abd5f8" stroke-width="0.8"/><polygon points="392.0,180.0 440.0,204.0 440.0,102.0 392.0,78.0" fill="#266aa2"/><polygon points="440.0,204.0 488.0,180.0 488.0,78.0 440.0,102.0" fill="#1b4c74"/>
+<text x="440" y="234" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" text-anchor="middle" fill="#c9d6e8">Python</text><text x="440" y="254" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" text-anchor="middle" fill="#7ebdf1">100.0%</text>
+<g clip-path="url(#clip)"><polygon points="0,0 150,0 60,360 -90,360" fill="#ffffff" opacity="0.045"><animateTransform attributeName="transform" type="translate" from="-260 0" to="1140 0" dur="8.0s" repeatCount="indefinite"/></polygon></g>
+<rect x="0" y="0" width="880" height="3" fill="#e06552" opacity="0.85"/>
+<rect x="0" y="356" width="880" height="4" fill="#a14436" opacity="0.5"/>
+</svg>

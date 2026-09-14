@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/3d-banner.svg" alt="qtjg 3D banner" width="880" />
+</p>
+
 <!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
 <div align="center">
 
@@ -176,3 +180,18 @@ calendar — not a template, not someone else's snake. Regenerate anytime with
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
+
+---
+
+## 🧊 3D Visuals
+
+<p align="center">
+  <img src="docs/assets/3d-langs.svg" alt="qtjg — 3D language stack" width="800" />
+</p>
+
+Isometric 3D language stack computed from live GitHub language stats.
+Regenerate the graphics any time with the built-in generator — stdlib only, zero dependencies:
+
+```bash
+python tools/generate_3d_assets.py
+```
