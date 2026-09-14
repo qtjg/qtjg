@@ -1,3 +1,17 @@
+<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<div align="center">
+
+### 🧊 3D View
+
+![qtjg — isometric stack](assets/3d-stack.svg)
+
+*Floating isometric render — layers hover, data particles stream, shine sweeps.*
+
+</div>
+
+---
+🩺 **New tool — `repo-pulse`**: instant git pulse (28-day heat bars, hot files, contributors). Run: `python3 tools/repo_pulse.py`
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Mayank Bhaskar </h1>
 <h3 align="center">AI & Full-Stack Developer | Builder | Open-Source Enthusiast</h3>
 
