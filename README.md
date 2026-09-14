@@ -2,14 +2,10 @@
   <img src="docs/assets/3d-banner.svg" alt="qtjg 3D banner" width="880" />
 </p>
 
-<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<!-- ⬡ 3D-UPGRADE v2 by Mayank Bhaskar -->
 <div align="center">
 
-### 🧊 3D View
-
-![qtjg — isometric stack](assets/3d-stack.svg)
-
-*Floating isometric render — layers hover, data particles stream, shine sweeps.*
+**made by [Mayank Bhaskar](https://github.com/qtjg)**
 
 </div>
 
