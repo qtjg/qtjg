@@ -126,20 +126,6 @@ My goal is simple: **write clean code, ship useful things, and build software th
   <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake.svg">
-    <img alt="Contribution snake eating Mayank's real contribution grid" src="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake-dark.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
