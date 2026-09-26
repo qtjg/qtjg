@@ -134,10 +134,11 @@ My goal is simple: **write clean code, ship useful things, and build software th
   <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qtjg&theme=github-dark&hide_border=true&bg_color=0d1117&color=e6edf3&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb" alt="qtjg's contribution activity graph"/>
+  <img src="https://streak-stats.demolab.com?user=qtjg&theme=github-dark-blue&hide_border=true&background=0d1117&radius=6" alt="qtjg — current and longest contribution streaks" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qtjg&theme=github_dark" alt="qtjg — commits by hour of day" width="49%"/>
 </p>
 
 <p align="center">
