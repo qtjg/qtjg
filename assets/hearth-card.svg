@@ -9,8 +9,16 @@
       <stop offset="0" stop-color="#f78166" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#f78166" stop-opacity="0"/>
     </radialGradient>
+    <pattern id="grid" width="56" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 12 H56" stroke="#30363d" stroke-width="1" stroke-opacity="0.55"/>
+      <animateTransform attributeName="patternTransform" type="translate"
+                        from="0 0" to="0 24" dur="4.5s" repeatCount="indefinite"/>
+    </pattern>
   </defs>
   <rect x="1" y="1" width="798" height="418" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="798" height="418" rx="14" fill="url(#grid)" opacity="0.5"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.05s" fill="freeze"/>
   <circle cx="740" cy="30" r="150" fill="url(#glow)"/>
   <circle cx="60" cy="400" r="120" fill="url(#glow)" opacity="0.6"/>
   <rect x="-240" y="0" width="240" height="3" fill="url(#sweep)">
@@ -23,4 +31,5 @@
   <rect x="191" y="340" width="88" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="235" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#f78166" opacity="0.92" letter-spacing="1">YT MUSIC</text><rect x="293" y="340" width="112" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="349" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#f78166" opacity="0.92" letter-spacing="1">DISCORD RPC</text><rect x="419" y="340" width="96" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="467" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#f78166" opacity="0.92" letter-spacing="1">CROSSFADE</text><rect x="529" y="340" width="80" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="569" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#f78166" opacity="0.92" letter-spacing="1">PLUGINS</text>
   <text x="400" y="396" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" fill="#6e7681" letter-spacing="1.5">588 TESTS GREEN · 3-OS CI MATRIX · 74 STATIONS</text>
   <rect x="1" y="1" width="798" height="418" rx="14" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  </g>
 </svg>
