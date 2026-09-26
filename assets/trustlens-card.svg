@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="trustlens — project card">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39c5cf" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39c5cf" stop-opacity="1"/>
+      <stop offset="1" stop-color="#39c5cf" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#39c5cf" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#39c5cf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="418" rx="14" fill="#0d1117"/>
+  <circle cx="740" cy="30" r="150" fill="url(#glow)"/>
+  <circle cx="60" cy="400" r="120" fill="url(#glow)" opacity="0.6"/>
+  <rect x="-240" y="0" width="240" height="3" fill="url(#sweep)">
+    <animate attributeName="x" values="-240;800" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="150" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="40" font-weight="700" fill="#e6edf3" letter-spacing="2">trustlens</text>
+  <text x="400" y="192" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="16" fill="#8b949e">Free worldwide scam scanner</text>
+  <text x="400" y="216" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" fill="#6e7681">URLs · SMS · QR · emails · APK hashes</text>
+  <path d="M312,286 Q400,240 488,286 Q400,332 312,286 Z" fill="#161b22" stroke="#39c5cf" stroke-width="2.5"/><circle cx="400" cy="286" r="22" fill="none" stroke="#39c5cf" stroke-width="2"/><circle cx="400" cy="286" r="9" fill="#39c5cf"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" repeatCount="indefinite"/></circle><line x1="400" y1="286" x2="420" y2="286" stroke="#39c5cf" stroke-width="2" opacity="0.75" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0 400 286" to="360 400 286" dur="3s" repeatCount="indefinite"/></line><path d="M300,258 L300,242 L316,242" fill="none" stroke="#39c5cf" stroke-width="2.5" stroke-linecap="round" opacity="0.35"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="0s" repeatCount="indefinite"/></path><path d="M484,242 L500,242 L500,258" fill="none" stroke="#39c5cf" stroke-width="2.5" stroke-linecap="round" opacity="0.35"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="0.4s" repeatCount="indefinite"/></path><path d="M300,314 L300,330 L316,330" fill="none" stroke="#39c5cf" stroke-width="2.5" stroke-linecap="round" opacity="0.35"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="0.8s" repeatCount="indefinite"/></path><path d="M484,330 L500,330 L500,314" fill="none" stroke="#39c5cf" stroke-width="2.5" stroke-linecap="round" opacity="0.35"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="1.2s" repeatCount="indefinite"/></path>
+  <rect x="274" y="340" width="56" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="302" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#39c5cf" opacity="0.92" letter-spacing="1">SCAN</text><rect x="344" y="340" width="96" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="392" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#39c5cf" opacity="0.92" letter-spacing="1">ZERO DATA</text><rect x="454" y="340" width="72" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/><text x="490" y="358" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#39c5cf" opacity="0.92" letter-spacing="1">GLOBAL</text>
+  <text x="400" y="396" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" fill="#6e7681" letter-spacing="1.5">URL · SMS · QR · EMAIL · APK</text>
+  <rect x="1" y="1" width="798" height="418" rx="14" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>
