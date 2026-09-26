@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="26" viewBox="0 0 1600 26">
+  <g>
+    <text x="-1184" y="19" font-family="JetBrains Mono, ui-monospace, monospace" font-size="14" fill="#58a6ff" opacity="0.78" textLength="1184" lengthAdjust="spacing">idea → build → ship  ✦  AI  ✦  automation  ✦  open source  ✦  web  ✦  learning in public  ✦  adhd-powered  ✦  ship > talk  ✦  clean code  ✦  </text><text x="0" y="19" font-family="JetBrains Mono, ui-monospace, monospace" font-size="14" fill="#58a6ff" opacity="0.78" textLength="1184" lengthAdjust="spacing">idea → build → ship  ✦  AI  ✦  automation  ✦  open source  ✦  web  ✦  learning in public  ✦  adhd-powered  ✦  ship > talk  ✦  clean code  ✦  </text><text x="1184" y="19" font-family="JetBrains Mono, ui-monospace, monospace" font-size="14" fill="#58a6ff" opacity="0.78" textLength="1184" lengthAdjust="spacing">idea → build → ship  ✦  AI  ✦  automation  ✦  open source  ✦  web  ✦  learning in public  ✦  adhd-powered  ✦  ship > talk  ✦  clean code  ✦  </text>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="1184 0" dur="30s" repeatCount="indefinite"/>
+  </g>
+</svg>
