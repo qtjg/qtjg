@@ -61,6 +61,17 @@ My goal is simple: **write clean code, ship useful things, and build software th
   <a href="https://github.com/qtjg"><img src="assets/repo-pulse-card.svg" width="100%" alt="repo-pulse — instant git pulse for any repo"/></a>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+  <a href="https://github.com/qtjg/mayaroute"><img src="assets/mayaroute-card.svg" width="100%" alt="mayaroute — the free AI gateway, OpenAI-compatible"/></a>
+</td>
+<td width="33%" valign="top">
+  <a href="https://github.com/qtjg/trustlens"><img src="assets/trustlens-card.svg" width="100%" alt="trustlens — free worldwide scam scanner"/></a>
+</td>
+<td width="33%" valign="top">
+  <a href="https://github.com/qtjg/gitmancer"><img src="assets/gitmancer-card.svg" width="100%" alt="gitmancer — zero-dependency AI CLI agent for GitHub"/></a>
+</td>
+</tr>
 </table>
 
 <p align="center">
