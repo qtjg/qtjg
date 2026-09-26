@@ -26,7 +26,7 @@
 <tr>
 <td width="65%" valign="top">
 
-**Mayank here**  an ADHD-powered builder obsessed with turning random ideas into useful software. I work across **AI, full-stack, automation and open source**, and I'd rather ship a real product than talk about one.
+**Mayank here** — an ADHD-powered builder obsessed with turning random ideas into useful software. I work across **AI, full-stack, automation and open source**, and I'd rather ship a real product than talk about one.
 
 I enjoy building **scalable, production-ready tools** with clean architecture — from desktop music players to Telegram automation to developer CLIs. Every project is a chance to learn something new and make it real.
 
@@ -49,11 +49,19 @@ My goal is simple: **write clean code, ship useful things, and build software th
 
 ## ⚡ Things I've Built
 
-**[hearth](https://github.com/qtjg/hearth)** — a full three-pane desktop music player for YouTube Music. Synced lyrics, 74 world stations, Discord Rich Presence, crossfade, plugins — 588 tests green on a 3-OS CI matrix.
-
-**[joingate](https://github.com/qtjg/joingate)** — one-time invite links, member gating and kick automation for Telegram groups & channels. Zero dependencies, runs on any JS runtime.
-
-**[repo-pulse](https://github.com/qtjg)** — instant git pulse for any repo: 28-day heat bars, hot files, contributors. `python3 tools/repo_pulse.py`
+<table>
+<tr>
+<td width="33%" valign="top">
+  <a href="https://github.com/qtjg/hearth"><img src="assets/hearth-card.svg" width="100%" alt="hearth — three-pane desktop music player for YouTube Music"/></a>
+</td>
+<td width="33%" valign="top">
+  <a href="https://github.com/qtjg/joingate"><img src="assets/joingate-card.svg" width="100%" alt="joingate — one-time invite links and member gating for Telegram"/></a>
+</td>
+<td width="33%" valign="top">
+  <a href="https://github.com/qtjg"><img src="assets/repo-pulse-card.svg" width="100%" alt="repo-pulse — instant git pulse for any repo"/></a>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="assets/divider.svg" width="100%" alt="" />
