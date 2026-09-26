@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-dither.png" alt="Dithered Creation of Adam — the two hands" width="100%" />
+  <img src="assets/banner-anim.svg" alt="Dithered Creation of Adam — the two hands" width="100%" />
 </p>
 
 # Hi 👋, I'm Mayank Bhaskar
@@ -7,14 +7,18 @@
 <h3 align="center">AI & Full-Stack Developer</h3>
 
 <p align="center">
-  <code>adhd-powered · idea → build → ship</code>
+  <a href="https://github.com/qtjg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E6EDF3&center=true&vCenter=true&width=680&height=42&lines=adhd-powered+builder;idea+%E2%86%92+build+%E2%86%92+ship;AI+%C2%B7+automation+%C2%B7+open+source;learning+in+public" alt="Typing: adhd-powered builder · idea → build → ship" />
+  </a>
 </p>
 
 <p align="center">
   Building random ideas into useful software — AI, automation, open source &amp; web.
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 ## 🚀 About Me
 
@@ -33,13 +37,15 @@ My goal is simple: **write clean code, ship useful things, and build software th
 </td>
 <td width="35%" valign="top">
 
-<img src="assets/astro-dither.png" alt="Dithered astronaut on a free flight" width="100%" />
+<img src="assets/astro-anim.svg" alt="Dithered astronaut on a free flight — gently floating" width="100%" />
 
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 ## ⚡ Things I've Built
 
@@ -49,7 +55,9 @@ My goal is simple: **write clean code, ship useful things, and build software th
 
 **[repo-pulse](https://github.com/qtjg)** — instant git pulse for any repo: 28-day heat bars, hot files, contributors. `python3 tools/repo_pulse.py`
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 ## 🤝 Connect
 
@@ -71,9 +79,15 @@ My goal is simple: **write clean code, ship useful things, and build software th
   </a>
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 ## 💻 Tech Stack
+
+<p align="center">
+  <img src="assets/marquee.svg" width="100%" alt="scrolling: TypeScript · Python · Rust · Java · React · Next.js · Node · Docker · AWS · Postgres" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36"/>&nbsp;
@@ -97,7 +111,9 @@ My goal is simple: **write clean code, ship useful things, and build software th
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="36"/>
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -106,10 +122,40 @@ My goal is simple: **write clean code, ship useful things, and build software th
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qtjg&theme=github_dark" alt="repos per language" width="49%"/>
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake.svg">
+    <img alt="Contribution snake eating Mayank's real contribution grid" src="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake-dark.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qtjg&theme=github-dark&hide_border=true&bg_color=0d1117&color=e6edf3&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb" alt="qtjg's contribution activity graph"/>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake.svg">
+    <img alt="Contribution snake eating qtjg's real contribution grid" src="https://raw.githubusercontent.com/qtjg/qtjg/gh-pages/github-snake-dark.svg"/>
+  </picture>
 </p>
